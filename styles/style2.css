@@ -1,0 +1,18 @@
+.odd_item{
+    background-color: rgb(250, 123, 144);
+    font-family: "DejaVu Sans", "Verdana", sans-serif;
+}
+
+#even_id2{
+    color: rgb(58, 58, 255);
+    font-size: 36px;
+}
+.third{
+    font-size: 24px;
+}
+
+#even_id4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
