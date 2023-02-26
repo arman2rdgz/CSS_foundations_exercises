@@ -1,0 +1,11 @@
+button{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', Times, serif, sans-serif;
+}
+.pickme_button{
+    background-color: black;
+    color: white;
+}
+.pickme_instead_button{
+    background-color: yellow;
+}
